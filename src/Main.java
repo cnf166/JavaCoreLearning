@@ -5,5 +5,6 @@ public class Main {
         Person person = new Person("vanh");
         System.out.println(person.getName());
         System.out.println("404");
+        int i = 4;
     }
 }
